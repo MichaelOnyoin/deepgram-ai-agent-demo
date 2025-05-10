@@ -30,7 +30,8 @@
     "react-syntax-highlighter": "^15.5.0",
     "react-toastify": "^10.0.4",
     "react-use-websocket": "^4.8.1",
-    "remark-gfm": "^4.0.0"
+    "remark-gfm": "^4.0.0",
+    "ws": "^8.18.2"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.1.0",
